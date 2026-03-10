@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# VS cache/index files
+*.vsidx
+*.cache
+*.ide/
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Logs
+*.log
+
+# Rider/Resharper (optional)
+.idea/
+_ReSharper*/
