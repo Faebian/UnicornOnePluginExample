@@ -1,6 +1,6 @@
 using System;
 using System.Windows.Forms;
-using UnicornOne.Workbook;
+using UnicornOne.Abstractions.Workbook;
 
 namespace UnicornOneHelloPlugin
 {
